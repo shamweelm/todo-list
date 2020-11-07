@@ -4,4 +4,5 @@ It uses HTML5 and CSS3.
 
 ## Features
 * List of daily tasks
+ New branch is added
 
